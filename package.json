@@ -1,7 +1,7 @@
 {
   "name": "invert-selection",
   "main": "./lib/invert-selection",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Invert current text selection",
   "author": "Colin Terry",
   "keywords": [
@@ -23,6 +23,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
