@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Invert selection'
+      'command': 'invert-selection:invert'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Invert Selection'
+      'submenu': [
+        {
+          'label': 'Invert'
+          'command': 'invert-selection:invert'
+        }
+      ]
+    ]
+  }
+]

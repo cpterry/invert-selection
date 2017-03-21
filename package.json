@@ -1,0 +1,28 @@
+{
+  "name": "invert-selection",
+  "main": "./lib/invert-selection",
+  "version": "1.0.0",
+  "description": "Invert current text selection",
+  "author": "Colin Terry",
+  "keywords": [
+    "select",
+    "invert",
+    "selection"
+  ],
+  "contributors": [
+    {
+      "name": "Colin Terry",
+      "email": "cpterry@gmail.com"
+    }
+  ],
+  "activationCommands": {
+    "atom-workspace": "invert-selection:invert"
+  },
+  "repository": "https://github.com/cpterry/invert-selection",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
