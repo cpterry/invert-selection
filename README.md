@@ -8,10 +8,7 @@ The default keymapping is ctrl-i. Enable or disable it in settings.
 
 Combines well with built-in functions. For example, to to see only lines matching a search result:
 
-Find All
-
-Select Line
-
-Invert Selection
-
-Fold Selection
+1. Find All
+2. Select Line
+3. Invert Selection
+4. Fold Selection
